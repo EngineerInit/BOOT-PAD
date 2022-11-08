@@ -1,5 +1,6 @@
 # BOOT-PAD
 A boot sector text "editer" and semi os type thingy
+
 ![OS_07_11_2022_21_18_15](https://user-images.githubusercontent.com/107817366/200459574-156a9373-a700-483c-8020-aa9fda5558f1.png)
 
 features
@@ -16,7 +17,7 @@ CONTROLS
 "=" save file
 "Esc" clears the screen (pressing backspace untill there is no saveable text will do the same thing)
 "~" sawp drive
-"_" run file 
+"_" run file (must be loaded first)
 ";" write byte
 "tab" nonthing
 
